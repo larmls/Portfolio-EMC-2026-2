@@ -8,14 +8,7 @@ Turno: Matutino
 
 
  Comandos usados e suas definições:
-    Split quebra o texto em pedacos usando o espaco 
     Append adiciona item ao final da lista, construindo a lista
-    Len() retorna o tamanho da lista (quantidade de elementos)
-    Range() repete o for de acordo com a quantidade de elementos do conjunto
-    
- 
- OBSERVAÇÃO:  
-    Quando pedir para digitar os elementos do conjunto, digite todos os elementos separados por espaco.
     
 """
 
