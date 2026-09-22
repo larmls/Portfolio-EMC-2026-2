@@ -30,7 +30,7 @@ Conjunto B: 2 4 6 8 10
 - Inlusão
 
 
-# Atividade 1 — Teoria dos Conjuntos
+# Atividade 2 — Divisibilidade
 
 *Arquivo:*
 `P1/atividade_02_divisibilidade/divisibilidade.py`
